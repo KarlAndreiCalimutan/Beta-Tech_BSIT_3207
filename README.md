@@ -19,3 +19,10 @@ This data analysis research will provide fresh light on the country's reaction t
 - Students - Students would immediately benefit from this research since its findings may motivate them to investigate data analytics as a way to assist the community in which they live in developing efficient disaster mitigation and response plans, particularly for typhoons. They will also be informed of their precautions to safeguard themselves and their loved ones against storms and floods.
 - Parents - This research may persuade parents to pursue programs that include instruction to assist pupils in coping with the damaging impacts of typhoons.
 - Future Researchers -This paper discusses mitigation and response frameworks to minimize the devastation caused by typhoons. Thus, the findings of this study may be utilized to inform future conversations and analysis of effective frameworks employed by governments throughout the world that the Philippine government could adopt for its own system.
+
+Methods
+
+•	Preparedness and response capacity at local communities should equally be promoted through a community-based approach. This includes building community-to-community coordination. For example, if there is heavy rainfall and a flash flood is likely in an upstream community, that community can inform the downstream community and activate an alert system—which should be installed.
+•	“Green-gray” infrastructure like retention basins, wetlands, vegetation shields, sediment traps, flood walls, diversion channels, retaining walls, and other measures can improve the geo-morphology of the mountain rivers including slope stabilization and overall flash flood risk management.
+•	Local governments urgently need greater expertise on flood management, both on the technical and non-technical aspects, and in each and every stage of the risk management cycle, which is greatly lacking in the region.
+
