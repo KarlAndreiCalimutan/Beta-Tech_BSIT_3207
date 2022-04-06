@@ -10,6 +10,14 @@ The aim of this analysis is to construct an Exploratory Data Analysis of floods 
 
 
 
+Problem Statement
+
+Floods are disastrous natural hazards accused of human live losses. As a flood-prone area, Southeast Asia (SEA) has often been hit by floods, resulting in the highest fatality in the world. Despite the destructive flood impacts, how has flood occurrence changed over the past decades, and to what extent did floods affect the SEA are not yet clear. Using the data, we gather; we aim to assess the trend of flood damages to properties in the SEA in 2000–2022.
+
+As low flood protection standards in Cambodia and Myanmar are considered a reason for high flood-induced mortalities, building higher flood protection standards should be taken as a priority for mitigating potential flood impacts. With quantifying flood occurrence and impacts, this study offers scientific understandings for better flood risk management.
+
+
+
 Significance of the Proposed Project
 
 This data analysis research will provide fresh light on the country's reaction to and mitigation of the consequences of typhoons. This research will specifically benefit the following:
@@ -25,4 +33,21 @@ Methods
 - Preparedness and response capacity at local communities should equally be promoted through a community-based approach. This includes building community-to-community coordination. For example, if there is heavy rainfall and a flash flood is likely in an upstream community, that community can inform the downstream community and activate an alert system—which should be installed.
 - “Green-gray” infrastructure like retention basins, wetlands, vegetation shields, sediment traps, flood walls, diversion channels, retaining walls, and other measures can improve the geo-morphology of the mountain rivers including slope stabilization and overall flash flood risk management.
 - Local governments urgently need greater expertise on flood management, both on the technical and non-technical aspects, and in each and every stage of the risk management cycle, which is greatly lacking in the region.
+
+
+
+Expected Output
+
+This research aims to bring about an exploratory data analysis of floods from the year 2000 to 2022 from the countries within the South Eastern region of Asia that resulted in the highest damage to property as well as their respective local governments that experienced the least amount of damage to property. The worldwide flood datasets derived from the Centre for Research on the Epidemiology of Disasters' Emergency Events Database (EM-DAT) will be used to rank up the number of damages to property to each country from the highest to lowest and then determine what location in the South Eastern Asia had the best countermeasures for flood damage. This data will be utilized to be able to develop a flood countermeasure strategy that can potentially help the countries most affected by floods be more capable of saving as much as they can. By collaborating with other countries in developing new strategies, next time floods arrived not much would be carried away.
+
+Sustainable Development Goals (SDGs) of the Project
+
+The SDGs that this project aims to achieve are Sustainable Cities and Communities and Climate Action. These SDGs are further described as follows;
+
+1.	Goal 11: Sustainable Cities and Communities - This SDG aims to make cities and human settlements inclusive, safe, resilient and sustainable. 
+2.	Goal 13: Climate Action - This goal strives to take urgent action to combat climate change and its impacts.
+
+These SDGs are in line with the (title) as it will provide a mitigation and quick response plan based from multiple frameworks from different countries within the South Eastern region of Asia that are tried and tested. These frameworks will help the governments of the countries that are take more damage caused by flood by assimilating the said frameworks from other countries and applying it to their own allowing them to mitigate damage to property caused by floods.
+
+
 
