@@ -46,7 +46,7 @@ This research aims to bring about an exploratory data analysis of floods from th
 The SDGs that this project aims to achieve are Sustainable Cities and Communities and Climate Action. These SDGs are further described as follows;
 
 1.	**Goal 11: Sustainable Cities and Communities** - This SDG aims to make cities and human settlements inclusive, safe, resilient and sustainable. 
-2.	Goal 13: Climate Action** - This goal strives to take urgent action to combat climate change and its impacts.
+2.	**Goal 13: Climate Action** - This goal strives to take urgent action to combat climate change and its impacts.
 
 These SDGs are in line with the (title) as it will provide a mitigation and quick response plan based from multiple frameworks from different countries within the South Eastern region of Asia that are tried and tested. These frameworks will help the governments of the countries that are take more damage caused by flood by assimilating the said frameworks from other countries and applying it to their own allowing them to mitigate damage to property caused by floods.
 
