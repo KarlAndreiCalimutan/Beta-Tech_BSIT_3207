@@ -20,6 +20,7 @@ As low flood protection standards in Cambodia and Myanmar are considered a reaso
 
 Significance of the Proposed Project
 
+
 This data analysis research will provide fresh light on the country's reaction to and mitigation of the consequences of typhoons. This research will specifically benefit the following:
 
 - Government - This research will aid them in taking immediate action, prior to a disaster, to mitigate losses in the case of a typhoon disaster. The planning process and suggested ideas from established frameworks in the United States will assist them in determining how to plan, create, and develop the community while fostering risk-reduction collaborations.
@@ -27,6 +28,7 @@ This data analysis research will provide fresh light on the country's reaction t
 - Students - Students would immediately benefit from this research since its findings may motivate them to investigate data analytics as a way to assist the community in which they live in developing efficient disaster mitigation and response plans, particularly for typhoons. They will also be informed of their precautions to safeguard themselves and their loved ones against storms and floods.
 - Parents - This research may persuade parents to pursue programs that include instruction to assist pupils in coping with the damaging impacts of typhoons.
 - Future Researchers -This paper discusses mitigation and response frameworks to minimize the devastation caused by typhoons. Thus, the findings of this study may be utilized to inform future conversations and analysis of effective frameworks employed by governments throughout the world that the Philippine government could adopt for its own system.
+
 
 Methods
 
@@ -50,4 +52,12 @@ The SDGs that this project aims to achieve are Sustainable Cities and Communitie
 These SDGs are in line with the (title) as it will provide a mitigation and quick response plan based from multiple frameworks from different countries within the South Eastern region of Asia that are tried and tested. These frameworks will help the governments of the countries that are take more damage caused by flood by assimilating the said frameworks from other countries and applying it to their own allowing them to mitigate damage to property caused by floods.
 
 
+References
 
+https://public.emdat.be/data
+
+https://ourworldindata.org/natural-disasters
+
+https://pdf.usaid.gov/pdf_docs/PA00J4C8.pdf
+
+https://www.heraldopenaccess.us/openaccess/flood-control-and-its-management
