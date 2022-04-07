@@ -17,7 +17,7 @@ As low flood protection standards in Cambodia and Myanmar are considered a reaso
 
 
 
-**Significance of the Proposed Project**
+## **Significance of the Proposed Project**
 
 
 This data analysis research will provide fresh light on the country's reaction to and mitigation of the consequences of typhoons. This research will specifically benefit the following:
@@ -29,7 +29,7 @@ This data analysis research will provide fresh light on the country's reaction t
 - Future Researchers -This paper discusses mitigation and response frameworks to minimize the devastation caused by typhoons. Thus, the findings of this study may be utilized to inform future conversations and analysis of effective frameworks employed by governments throughout the world that the Philippine government could adopt for its own system.
 
 
-**Methods**
+## **Methods**
 
 - Preparedness and response capacity at local communities should equally be promoted through a community-based approach. This includes building community-to-community coordination. For example, if there is heavy rainfall and a flash flood is likely in an upstream community, that community can inform the downstream community and activate an alert system—which should be installed.
 - “Green-gray” infrastructure like retention basins, wetlands, vegetation shields, sediment traps, flood walls, diversion channels, retaining walls, and other measures can improve the geo-morphology of the mountain rivers including slope stabilization and overall flash flood risk management.
@@ -37,7 +37,7 @@ This data analysis research will provide fresh light on the country's reaction t
 
 
 
-**Expected Output**
+## **Expected Output**
 
 This research aims to bring about an exploratory data analysis of floods from the year 2000 to 2022 from the countries within the South Eastern region of Asia that resulted in the highest damage to property as well as their respective local governments that experienced the least amount of damage to property. The worldwide flood datasets derived from the Centre for Research on the Epidemiology of Disasters' Emergency Events Database (EM-DAT) will be used to rank up the number of damages to property to each country from the highest to lowest and then determine what location in the South Eastern Asia had the best countermeasures for flood damage. This data will be utilized to be able to develop a flood countermeasure strategy that can potentially help the countries most affected by floods be more capable of saving as much as they can. By collaborating with other countries in developing new strategies, next time floods arrived not much would be carried away.
 
