@@ -66,3 +66,8 @@ https://www.globalgoals.org/goals/
 
 https://www.eden.gov.uk/your-environment/floods/flood-damage-to-your-home/
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3529313/
+
+https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12598
+
+https://blogs.adb.org/blog/how-governments-can-reduce-impacts-of-asia-s-devastating-flash-floods
