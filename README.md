@@ -66,8 +66,8 @@ Torti J. (2012, December). Floods in Southeast Asia: A health priority.
     
 Ritchie H. and Roser M. (2014). Natural Disasters. 
     Retrieved March 2022, from OurWorldInData.org: https://ourworldindata.org/natural-disasters
-    
-https://public.emdat.be/data
+
+2002-2022 Flood disaster records in South Eastern Asia: https://public.emdat.be/data
 
 USAID (2011, October 28) FACT SHEET #1, FISCAL YEAR (FY) 2012 SOUTHEAST ASIA – FLOODS
 	Retrieved March 2022, from usaid.gov: https://pdf.usaid.gov/pdf_docs/PA00J4C8.pdf
