@@ -69,7 +69,8 @@ Ritchie H. and Roser M. (2014). Natural Disasters.
     
 https://public.emdat.be/data
 
-https://pdf.usaid.gov/pdf_docs/PA00J4C8.pdf
+USAID (2011, October 28) FACT SHEET #1, FISCAL YEAR (FY) 2012 SOUTHEAST ASIA – FLOODS
+	Retrieved March 2022, from usaid.gov: https://pdf.usaid.gov/pdf_docs/PA00J4C8.pdf
 
 https://www.heraldopenaccess.us/openaccess/flood-control-and-its-management
 
