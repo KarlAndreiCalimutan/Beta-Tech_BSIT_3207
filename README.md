@@ -77,8 +77,4 @@ Flood Control and its Management: https://www.heraldopenaccess.us/openaccess/flo
 Flood impact on Mainland Southeast Asia between 1985 and 2018—The role of tropical cyclones:
 https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12598
 
-Flood impact on Mainland Southeast Asia between 1985 and 2018—The role of tropical cyclones: https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12598
-
-Flood impact on Mainland Southeast Asia between 1985 and 2018—The role of tropical cyclones: https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12598
-
 Here’s How Governments Can Reduce the Impacts of Asia’s Devastating Flash Floods: https://blogs.adb.org/blog/how-governments-can-reduce-impacts-of-asia-s-devastating-flash-floods
