@@ -74,6 +74,7 @@ USAID (2011, October 28) FACT SHEET #1, FISCAL YEAR (FY) 2012 SOUTHEAST ASIA –
 
 https://www.heraldopenaccess.us/openaccess/flood-control-and-its-management
 
+Flood impact on Mainland Southeast Asia between 1985 and 2018—The role of tropical cyclones:
 https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12598
 
 https://blogs.adb.org/blog/how-governments-can-reduce-impacts-of-asia-s-devastating-flash-floods
