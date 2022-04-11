@@ -60,16 +60,18 @@ Federal Emergency Management Agency (2020). Protect Your Home from Flooding.
 
 United Nations (2022). Department of Economic and Social Affairs, Sustainable goals. 
     Retrieved March 2022, from un.org: https://sdgs.un.org/goals/goal13
-
+    
+Torti J. (2012, December). Floods in Southeast Asia: A health priority.
+    Retrieved March 2022, from ncbi.nlm.nih.gov: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3529313/
+    
+Ritchie H. and Roser M. (2014). Natural Disasters. 
+    Retrieved March 2022, from OurWorldInData.org: https://ourworldindata.org/natural-disasters
+    
 https://public.emdat.be/data
-
-https://ourworldindata.org/natural-disasters
 
 https://pdf.usaid.gov/pdf_docs/PA00J4C8.pdf
 
 https://www.heraldopenaccess.us/openaccess/flood-control-and-its-management
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3529313/
 
 https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12598
 
