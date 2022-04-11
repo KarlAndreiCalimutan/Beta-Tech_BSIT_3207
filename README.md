@@ -52,6 +52,15 @@ These SDGs are in line with the Proposal Topic: Data Based Outlook to Reduce Flo
 
 **References**
 
+The Global Goals (2022). Goal 11 Sustainable Cities and Communities. 
+    Retrieved March 2022, from globalgoals.org: https://www.globalgoals.org/goals/
+
+Federal Emergency Management Agency (2021). Protect Your Home from Flooding. 
+    Retrieved March 2022, from fema.gov: https://www.fema.gov/sites/default/files/2020-11/fema_protect-your-home_flooding.pdf
+
+United Nations (2022). Department of Economic and Social Affairs, Sustainable goals. 
+    Retrieved March 2022, from un.org: https://sdgs.un.org/goals/goal13
+
 https://public.emdat.be/data
 
 https://ourworldindata.org/natural-disasters
@@ -59,12 +68,6 @@ https://ourworldindata.org/natural-disasters
 https://pdf.usaid.gov/pdf_docs/PA00J4C8.pdf
 
 https://www.heraldopenaccess.us/openaccess/flood-control-and-its-management
-
-https://sdgs.un.org
-
-https://www.globalgoals.org/goals/
-
-https://www.eden.gov.uk/your-environment/floods/flood-damage-to-your-home/
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3529313/
 
