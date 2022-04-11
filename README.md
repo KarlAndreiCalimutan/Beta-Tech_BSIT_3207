@@ -11,9 +11,9 @@ The aim of this analysis is to construct an Exploratory Data Analysis of floods 
 
 **Problem Statement**
 
-Floods are disastrous natural hazards accused of human live losses. As a flood-prone area, Southeast Asia (SEA) has often been hit by floods, resulting in the highest fatality in the world. Despite the destructive flood impacts, how has flood occurrence changed over the past decades, and to what extent did floods affect the SEA are not yet clear. Using the data, we gather; we aim to assess the trend of flood damages to properties in the SEA in 2000–2022.
+Floods are natural disasters that can cause casualties and property damage. As a flood-prone region, Southeast Asia (SEA) is regularly hit by floods, causing the highest death toll in the world. Despite the devastating effects of flooding, how flooding has changed over the past few decades and the magnitude of its impact on the SEA is unclear. Using the data, we gather; we aim to assess the trend of flood damages to properties in the SEA in 2000–2022.
 
-As low flood protection standards in Cambodia and Myanmar are considered a reason for high flood-induced mortalities, building higher flood protection standards should be taken as a priority for mitigating potential flood impacts. With quantifying flood occurrence and impacts, this study offers scientific understandings for better flood risk management.
+Since low flood control standards in SEA are considered a cause of high flood-induced mortality, priority should be given to establishing higher flood control standards to mitigate potential flood impacts. By quantifying the occurrence and impact of floods, this study provides scientific insights for better flood risk management.
 
 
 
