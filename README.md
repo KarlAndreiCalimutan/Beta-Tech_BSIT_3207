@@ -50,6 +50,11 @@ The SDGs that this project aims to achieve are Sustainable Cities and Communitie
 
 These SDGs are in line with the Proposal Topic: Data Based Outlook to Reduce Flood to Property Damage EDA: Flood Damage to Property Reduction as it will provide a mitigation and quick response plan based from multiple frameworks from different countries within the South Eastern region of Asia that are tried and tested. These frameworks will help the governments of the countries that are take more damage caused by flood by assimilating the said frameworks from other countries and applying it to their own allowing them to mitigate damage to property caused by floods.
 
+
+**Datasets References**
+https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/EM-DAT.pdf
+https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/untouched-data-sets.xlsx
+
 **References**
 
 The Global Goals (2022). Goal 11 Sustainable Cities and Communities. 
