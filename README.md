@@ -50,11 +50,15 @@ The SDGs that this project aims to achieve are Sustainable Cities and Communitie
 
 These SDGs are in line with the Proposal Topic: Data Based Outlook to Reduce Flood to Property Damage EDA: Flood Damage to Property Reduction as it will provide a mitigation and quick response plan based from multiple frameworks from different countries within the South Eastern region of Asia that are tried and tested. These frameworks will help the governments of the countries that are take more damage caused by flood by assimilating the said frameworks from other countries and applying it to their own allowing them to mitigate damage to property caused by floods.
 
-
+Flood Accidents in Asean Country Year 2002-2022 (Excel)
 **Datasets References**
 
-[Flood Accidents in Asean Country Year 2002-2022 (Excel)]    (https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/untouched-data-sets.xlsx)
-[Flood Accidents in Asean Country Year 2002-2022 (PDF)]    (https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/EM-DAT.pdf)
+[Flood Accidents in Asean Country Year 2002-2022 (Excel)](https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/untouched-data-sets.xlsx)
+
+[Global Surface Temperature Analysis](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424269/GLB.Ts%2BdSST.xlsx)
+
+[Concentration of Carbon dioxide, 1959-2020 (parts per million)](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8460662/download.xlsx)
+
 
 
 **References**
