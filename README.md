@@ -44,8 +44,8 @@ This research aims to bring about an exploratory data analysis of floods from th
 **Sustainable Development Goals (SDGs) of the Project**
 
 The SDGs that this project aims to achieve are Sustainable Cities and Communities and Climate Action. These SDGs are further described as follows;
-![E_SDG goals_icons-individual-rgb-13](https://user-images.githubusercontent.com/103100002/170150121-8af197d9-ddad-470a-823b-5a01ab530fc5.png)
 
+![Untitled design](https://user-images.githubusercontent.com/103100002/170150552-8b3b5dd5-34c2-4e40-8e8c-19c140799001.png)
 1.	**Goal 11: Sustainable Cities and Communities** - This SDG aims to make cities and human settlements inclusive, safe, resilient and sustainable. 
 									
 3.	**Goal 13: Climate Action** - This goal strives to take urgent action to combat climate change and its impacts.
