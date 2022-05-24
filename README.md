@@ -54,10 +54,8 @@ Flood Accidents in Asean Country Year 2002-2022 (Excel)
 **Datasets References**
 
 [Flood Accidents in Asean Country Year 2002-2022 (Excel)](https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/untouched-data-sets.xlsx)
+[Flood Accidents in Asean Country Year 2002-2022 (PDF)](https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/EM-DAT.pdf)
 
-[Global Surface Temperature Analysis](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424269/GLB.Ts%2BdSST.xlsx)
-
-[Concentration of Carbon dioxide, 1959-2020 (parts per million)](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8460662/download.xlsx)
 
 
 
