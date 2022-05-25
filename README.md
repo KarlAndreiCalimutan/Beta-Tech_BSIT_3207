@@ -11,7 +11,7 @@ The aim of this analysis is to construct an Exploratory Data Analysis of floods 
 
 **Problem Statement**
 
-Floods are natural disasters that can cause casualties and property damage. As a flood-prone region, Southeast Asia (SEA) is regularly hit by floods, causing the highest death toll in the world. Despite the devastating effects of flooding, how flooding has changed over the past few decades and the magnitude of its impact on the SEA is unclear. Using the data, we gather; we aim to assess the trend of flood damages to properties in the SEA in 2000–2022.
+Floods are natural disasters that can cause casualties and property damage. As a flood-prone region, Southeast Asia (SEA) is regularly hit by floods, causing the highest death toll in the world. Despite the devastating effects of flooding, how flooding has changed over the past few decades and the magnitude of its impact on the SEA is unclear. Using the data, we gather; we aim to assess the trend of flood damages to properties in the SEA in 2001–2020.
 
 Since low flood control standards in SEA are considered a cause of high flood-induced mortality, priority should be given to establishing higher flood control standards to mitigate potential flood impacts. By quantifying the occurrence and impact of floods, this study provides scientific insights for better flood risk management.
 
@@ -39,7 +39,7 @@ This data analysis research will provide fresh light on the country's reaction t
 
 **Expected Output**
 
-This research aims to bring about an exploratory data analysis of floods from the year 2000 to 2022 from the countries within the South Eastern region of Asia that resulted in the highest damage to property as well as their respective local governments that experienced the least amount of damage to property. The worldwide flood datasets derived from the Centre for Research on the Epidemiology of Disasters' Emergency Events Database (EM-DAT) will be used to rank up the number of damages to property to each country from the highest to lowest and then determine what location in the South Eastern Asia had the best countermeasures for flood damage. This data will be utilized to be able to develop a flood countermeasure strategy that can potentially help the countries most affected by floods be more capable of saving as much as they can. By collaborating with other countries in developing new strategies, next time floods arrived not much would be carried away.
+This research aims to bring about an exploratory data analysis of floods from the year 2001 to 2020 from the countries within the South Eastern region of Asia that resulted in the highest damage to property as well as their respective local governments that experienced the least amount of damage to property. The worldwide flood datasets derived from the Centre for Research on the Epidemiology of Disasters' Emergency Events Database (EM-DAT) will be used to rank up the number of damages to property to each country from the highest to lowest and then determine what location in the South Eastern Asia had the best countermeasures for flood damage. This data will be utilized to be able to develop a flood countermeasure strategy that can potentially help the countries most affected by floods be more capable of saving as much as they can. By collaborating with other countries in developing new strategies, next time floods arrived not much would be carried away.
 
 **Sustainable Development Goals (SDGs) of the Project**
 
