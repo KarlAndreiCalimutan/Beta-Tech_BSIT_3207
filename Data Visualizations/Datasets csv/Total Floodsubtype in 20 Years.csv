@@ -1,6 +1,4 @@
-20 years Top 5 Countries Floodsubtype,
-,
-Type of Flood,Frequency
-Riverine Flood,78
-Flash Flood,48
-Coastal Flood,4
+TypeofFlood,Frequency
+Riverine,78
+Flash,48
+Coastal,4
