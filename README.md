@@ -31,9 +31,8 @@ This data analysis research will provide fresh light on the country's reaction t
 
 **Methods**
 
-- Preparedness and response capacity at local communities should equally be promoted through a community-based approach. This includes building community-to-community coordination. For example, if there is heavy rainfall and a flash flood is likely in an upstream community, that community can inform the downstream community and activate an alert system—which should be installed.
-- “Green-gray” infrastructure like retention basins, wetlands, vegetation shields, sediment traps, flood walls, diversion channels, retaining walls, and other measures can improve the geo-morphology of the mountain rivers including slope stabilization and overall flash flood risk management.
-- Local governments urgently need greater expertise on flood management, both on the technical and non-technical aspects, and in each and every stage of the risk management cycle, which is greatly lacking in the region.
+This study mainly aims to produce an exploratory data analysis regarding flood damage caused to the countries in South-East Asia, with that knowledge the proponents want to produce a compelling analysis on the dataset used that will push the countries to see what other countries that has significantly lower flood damage inflicted that they don’t have.  A collaboration where participating countries will share their knowledge in creating a more flood resilient country in the future.
+
 
 
 
@@ -51,12 +50,12 @@ The SDGs that this project aims to achieve are Sustainable Cities and Communitie
 
 These SDGs are in line with the Proposal Topic: Data Based Outlook to Reduce Flood to Property Damage EDA: Flood Damage to Property Reduction as it will provide a mitigation and quick response plan based from multiple frameworks from different countries within the South Eastern region of Asia that are tried and tested. These frameworks will help the governments of the countries that are take more damage caused by flood by assimilating the said frameworks from other countries and applying it to their own allowing them to mitigate damage to property caused by floods.
 
-Flood Accidents in Asean Country Year 2001-2022 (Excel)
+Flood Accidents in Asean Country Year 2001-2020 (Excel)
 **Datasets References**
 
-[Flood Accidents in Asean Country Year 2001-2022 (Excel)](https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/untouched-data-sets.xlsx)
+[Flood Accidents in Asean Country Year 2001-2020 (Excel)](https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/untouched-data-sets.xlsx)
 
-[Flood Accidents in Asean Country Year 2001-2022 (PDF)](https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/EM-DAT.pdf)
+[Flood Accidents in Asean Country Year 2001-2020 (PDF)](https://github.com/mushimushe/Beta-Tech_BSIT_3207/blob/main/EMDAT%20DATA%20SETS/EM-DAT.pdf)
 
 
 
