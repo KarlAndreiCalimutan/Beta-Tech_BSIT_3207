@@ -19,15 +19,14 @@ Since low flood control standards in SEA are considered a cause of high flood-in
 **Significance of the Proposed Project**
 
 
-This data analysis research will provide fresh light on the country's reaction to and mitigation of the consequences of typhoons. This research will specifically benefit the following:
+This data analysis research will provide fresh light on the country's reaction to and mitigation of the consequences of typhoons. The following proponents will benefit from this research :
 
-- Government - This research will aid them in taking immediate action, prior to a disaster, to mitigate losses in the case of a typhoon disaster. The planning process and suggested ideas from established frameworks in the United States will assist them in determining how to plan, create, and develop the community while fostering risk-reduction collaborations.
-- Community - This research educates the community about the solutions and methods that might be implemented to ensure their safety during typhoon catastrophes and floods.
-- Students - Students would immediately benefit from this research since its findings may motivate them to investigate data analytics as a way to assist the community in which they live in developing efficient disaster mitigation and response plans, particularly for typhoons. They will also be informed of their precautions to safeguard themselves and their loved ones against storms and floods.
-- Parents - This research may persuade parents to pursue programs that include instruction to assist pupils in coping with the damaging impacts of typhoons.
-- Future Researchers -This paper discusses mitigation and response frameworks to minimize the devastation caused by typhoons. Thus, the findings of this study may be utilized to inform future conversations and analysis of effective frameworks employed by governments throughout the world that the Philippine government could adopt for its own system.
-
-
+- Government - This research will help them in taking immediate action prior to a disaster to reduce losses in the event of a flood. The planning process, as well as suggestions from existing frameworks in the United States, will aid them in establishing how to build, create, and develop the community while developing risk-reduction cooperation.
+- Community -This study teaches the community about the solutions and approaches that might be used to secure their safety during a floods.
+- Students - Students will benefit immediately from this study since the findings may encourage them to look into data analytics as a tool to help their community establish effective disaster prevention and response plans, particularly during flood. They will also be informed about how to protect themselves and their family from flooding.
+- Parents - This research may inspire parents to consider programs that incorporate learning to help students cope with the destructive effects of flood.
+- Future Researchers -This study contains flood mitigation and response frameworks in order to minimize flood damage. As a result, the findings of this research might be used to guide future discussions and analyses of effective frameworks used by governments throughout the world that the SEA governments could adopt for its own system.
+- 
 **Methods**
 
 This study mainly aims to produce an exploratory data analysis regarding flood damage caused to the countries in South-East Asia, with that knowledge the proponents want to produce a compelling analysis on the dataset used that will push the countries to see what other countries that has significantly lower flood damage inflicted that they don’t have.  A collaboration where participating countries will share their knowledge in creating a more flood resilient country in the future.
