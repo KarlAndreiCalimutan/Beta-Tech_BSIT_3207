@@ -11,9 +11,9 @@ The aim of this analysis is to construct an Exploratory Data Analysis of floods 
 
 **Problem Statement**
 
-Floods are natural disasters that can cause casualties and property damage. As a flood-prone region, Southeast Asia (SEA) is regularly hit by floods, causing the highest death toll in the world. Despite the devastating effects of flooding, how flooding has changed over the past few decades and the magnitude of its impact on the SEA is unclear. Using the data, we gather; we aim to assess the trend of flood damages to properties in the SEA in 2001–2020.
+Floods are natural disasters that can cause casualties and property damage. As a flood-prone region, Southeast Asia (SEA) is regularly hit by floods, causing the highest death toll in the world. Despite the devastating effects of flooding, how flooding has changed over the past few decades and the magnitude of its damage on the SEA is unclear. Using the data, we gather; we aim to assess the trend of flood damages to properties in the SEA in 2001–2020.
 
-Since low flood control standards in SEA are considered a cause of high flood-induced mortality, priority should be given to establishing higher flood control standards to mitigate potential flood impacts. By quantifying the occurrence and impact of floods, this study provides scientific insights for better flood risk management.
+Since low flood control standards in SEA are considered a cause of high flood-induced mortality, priority should be given to establishing higher flood control standards to mitigate potential flood impacts. This work gives scientific insights for better flood risk management by estimating the occurrence and impact of floods.
 
 
 
